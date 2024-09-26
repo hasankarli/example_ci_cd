@@ -8,7 +8,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey,
+      backgroundColor: Colors.yellow,
       appBar: AppBar(
         title: Text(F.title, style: const TextStyle(color: Colors.blue)),
       ),
